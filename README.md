@@ -1,6 +1,6 @@
 # Join Order Benchmark
 
-This repository contains the Join Order Benchmark (JOB) queries from the paper:
+This repository contains the Join Order Benchmark (JOB) queries from the [paper](https://www.vldb.org/pvldb/vol9/p204-leis.pdf):
 
 How Good Are Query Optimizers, Really?
 by Viktor Leis, Andrey Gubichev, Atans Mirchev, Peter Boncz, Alfons Kemper, Thomas Neumann
