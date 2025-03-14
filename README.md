@@ -16,7 +16,7 @@ To load the database into PostgreSQL:
 \i schema.sql
 ```
 
-2. Download and unpack the CSV files from http://event.cwi.nl/da/job/imdb.tgz
+2. Download and unpack the CSV files from https://event.cwi.nl/da/job/imdb.tgz
 
 3. Load the CSV files:
 
